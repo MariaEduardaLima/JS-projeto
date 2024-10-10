@@ -13,6 +13,8 @@ async function RedesFavoritasMundo() {
             textinfo: "label+percent"
         }
     ]
+
+    
 }
 
 RedesFavoritasMundo()
